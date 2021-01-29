@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042920412390",
+    "project_id": "gamonatqvamebi-android",
+    "storage_bucket": "gamonatqvamebi-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042920412390:android:b03707f77d9a13603f1727",
+        "android_client_info": {
+          "package_name": "com.example.gamonatqvamebi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042920412390-1pul4gv80hjjvedkf0dsga8ort1jqsrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmKqlHL_K3dnz5_h57w1cz-4odqhT2eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042920412390-1pul4gv80hjjvedkf0dsga8ort1jqsrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
